@@ -3,7 +3,7 @@
 <picture><img src="assets/header.svg" width="100%" alt="header"/></picture>
 
 <a href="https://github.com/aqqqas">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=640&lines=Backend+Developer;Python+%C2%B7+FastAPI+%C2%B7+Java;PostgreSQL+%C2%B7+SQLAlchemy+%C2%B7+Docker" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=640&lines=Backend+Developer;Python+%26+Java;Building+APIs+with+FastAPI;PostgreSQL+%C2%B7+SQLite+%C2%B7+SQLAlchemy;Shipping+with+Docker+on+Linux" alt="typing"/>
 </a>
 
 <br/>
