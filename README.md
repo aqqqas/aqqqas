@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=aqqqas&fontSize=80&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Backend%20%C2%B7%20Infra%20%C2%B7%20Cloud%20IoT&descSize=20&descAlignY=58" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header" width="100%" alt="header"/>
 
 <a href="https://github.com/aqqqas">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=640&lines=Backend+Developer;From+edge+devices+to+the+cloud;MQTT+%E2%86%92+API+%E2%86%92+DB+%E2%86%92+Alert;Python+%C2%B7+Node.js+%C2%B7+Spring+Boot+%C2%B7+Docker" alt="typing"/>
@@ -25,7 +25,6 @@ focus:
   - 이벤트 기반 파이프라인 (MQTT → API → DB → Notification)
   - 컨테이너 기반 백엔드 · 인프라
 currently: 백엔드 ↔ 인프라 연계 설계 연습 중
-motto: "동작하는 코드 위에, 버티는 시스템을"
 ```
 
 <br/>
