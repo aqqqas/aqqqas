@@ -39,14 +39,14 @@ currently: 백엔드 ↔ 인프라 연계 설계 연습 중
 
 **Backend**
 
-<picture><img src="https://skillicons.dev/icons?i=fastapi,postgres,docker&theme=dark" alt="backend"/></picture>
+<picture><img src="https://skillicons.dev/icons?i=fastapi,postgres,sqlite,docker,linux&theme=dark" alt="backend"/></picture>
 
 <picture><img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/></picture>
 <picture><img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"/></picture>
 
 **Tools**
 
-<picture><img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="tools"/></picture>
+<picture><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="tools"/></picture>
 
 </div>
 
