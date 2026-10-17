@@ -8,7 +8,7 @@
 
 <br/>
 
-<picture><img src="https://komarev.com/ghpvc/?username=aqqqas&color=7c3aed&style=flat-square&label=PROFILE+VIEWS" alt="views"/></picture>
+<picture><img src="https://hits.sh/github.com/aqqqas.svg?style=flat-square&label=PROFILE%20VIEWS&color=7c3aed" alt="views"/></picture>
 <a href="https://github.com/aqqqas?tab=followers"><img src="https://img.shields.io/github/followers/aqqqas?label=FOLLOWERS&style=flat-square&color=302b63&logo=github" alt="followers"/></a>
 
 </div>
